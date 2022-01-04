@@ -1,2 +1,2 @@
 # Unkraut2.0
-Code of a walking robot developed for an College subject.
+Code of a walking robot developed for a College subject.
